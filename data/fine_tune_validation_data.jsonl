@@ -1,0 +1,8 @@
+[
+    {"input": "What is your return policy?", "expected_output": "We have a 30-day return policy with a full refund."},
+    {"input": "How can I track my order?", "expected_output": "You can track your order using your order number on our website."},
+    {"input": "Do you provide international delivery?", "expected_output": "Yes, we do! We deliver to over 100 countries."},
+    {"input": "What is your warranty policy?", "expected_output": "All products come with a 1-year manufacturer warranty."},
+    {"input": "How can I reset my password?", "expected_output": "Click on 'Reset Password' on the login page, then follow the instructions."}
+  ]
+  
