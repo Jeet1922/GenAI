@@ -1,0 +1,33 @@
+[
+    {
+      "dialogue": [
+        {"role": "user", "content": "What is your return policy?"},
+        {"role": "assistant", "content": "We have a 30-day return policy with a full refund."}
+      ]
+    },
+    {
+      "dialogue": [
+        {"role": "user", "content": "How can I track my order?"},
+        {"role": "assistant", "content": "You can track your order using your order number on our website."}
+      ]
+    },
+    {
+      "dialogue": [
+        {"role": "user", "content": "Do you provide international delivery?"},
+        {"role": "assistant", "content": "Yes, we do! We deliver to over 100 countries."}
+      ]
+    },
+    {
+      "dialogue": [
+        {"role": "user", "content": "What is your warranty policy?"},
+        {"role": "assistant", "content": "All products come with a 1-year manufacturer warranty."}
+      ]
+    },
+    {
+      "dialogue": [
+        {"role": "user", "content": "How can I reset my password?"},
+        {"role": "assistant", "content": "Click on 'Reset Password' on the login page, then follow the instructions."}
+      ]
+    }
+  ]
+  
