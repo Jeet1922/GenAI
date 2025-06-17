@@ -6,3 +6,5 @@ faiss-cpu
 python-dotenv
 pydantic
 langchain-sdk
+langchain
+langsmith
